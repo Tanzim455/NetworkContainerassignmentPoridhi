@@ -1,8 +1,5 @@
 
-
----
-
-```markdown
+```
 # Network Namespace Lab - Virtual Routed Network
 
 A complete Bash script that automatically sets up a virtual network topology using **Linux Network Namespaces**, **Bridges**, **veth pairs**, and **NAT** for educational and testing purposes.
@@ -32,7 +29,7 @@ Perfect for learning Linux networking, routing, firewall (iptables), and network
 - Interactive test menu
 - Clean setup and teardown
 
-
+---
 
 ## 🛠️ How to Use
 
@@ -54,7 +51,7 @@ sudo ./run.sh
 
 After running, an interactive menu will appear:
 
-```
+```text
 ==============================================
        🌐 Network Namespace Test Menu 🌐      
 ==============================================
@@ -120,11 +117,3 @@ To manually stop everything, choose option **9** from the menu.
 
 Feel free to fork and extend it with DHCP, firewall policies, VPNs, or monitoring tools.
 ```
-
----
-
-**Ready to use!** Just copy the entire content above and save it as `README.md` in your GitHub repository.
-
-Would you like a version with screenshots section or project goals added?
-
-   
