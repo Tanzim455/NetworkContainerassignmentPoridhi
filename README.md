@@ -1,4 +1,4 @@
-**Here's a clean, professional, and well-formatted GitHub README.md** ready for copying and pasting:
+
 
 ---
 
@@ -32,7 +32,7 @@ Perfect for learning Linux networking, routing, firewall (iptables), and network
 - Interactive test menu
 - Clean setup and teardown
 
----
+
 
 ## 🛠️ How to Use
 
